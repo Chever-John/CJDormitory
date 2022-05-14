@@ -1,14 +1,12 @@
-# CheverJohn's Dormitory Project
+# CheverJohn's 宿舍APP项目
 
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-zh.md)
 
 [English](README.md) | [中文](README-zh.md)
 
-A new Flutter project.
+## 简要介绍背景
 
-## Background
-
-This is a dormitory client APP because considering that the cell phone is the most frequently used hardware device, I especially developed a mobile app for you to meet the demand for dormitory management service.
+这是一个宿舍客户端 APP。因为考虑到手机才是大家最常使用的硬件设备，所以我特地为大家开发了一个移动端app以满足宿舍管理服务的需求。
 
 ## Getting Started
 
